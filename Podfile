@@ -8,6 +8,7 @@ target 'News' do
   # Pods for News
   pod 'RxSwift','~> 4.0'
   pod 'RxCocoa','~> 4.0'
+  pod 'NotionSwift', '0.5.1'
   target 'NewsTests' do
     inherit! :search_paths
     # Pods for testing

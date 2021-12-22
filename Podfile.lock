@@ -1,21 +1,25 @@
 PODS:
+  - NotionSwift (0.5.1)
   - RxCocoa (4.5.0):
     - RxSwift (>= 4.4.2, ~> 4.4)
   - RxSwift (4.5.0)
 
 DEPENDENCIES:
+  - NotionSwift (= 0.5.1)
   - RxCocoa (~> 4.0)
   - RxSwift (~> 4.0)
 
 SPEC REPOS:
   trunk:
+    - NotionSwift
     - RxCocoa
     - RxSwift
 
 SPEC CHECKSUMS:
+  NotionSwift: d7dd702db9361129e7dd0ea363cba623273dd700
   RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
   RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
 
-PODFILE CHECKSUM: 4811e3b6986a913b92c14ee6b68872756fc3df7d
+PODFILE CHECKSUM: e7d81d41ef48ff888f9611ae2712d81ea33e7858
 
 COCOAPODS: 1.11.2

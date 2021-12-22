@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 import RxSwift
 import RxCocoa
-
+import NotionSwift
 
 class NewsTableViewController: UITableViewController{
     

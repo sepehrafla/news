@@ -64,6 +64,7 @@
 		BEC3DA65274D387400EE0B52 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
 		BEC3DA68274D3CBF00EE0B52 /* ArticleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleTableViewCell.swift; sourceTree = "<group>"; };
 		CD967B8E8741FA25515F335D /* Pods-News.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-News.release.xcconfig"; path = "Target Support Files/Pods-News/Pods-News.release.xcconfig"; sourceTree = "<group>"; };
+		DDCF904E2772B5C500641DF1 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F5F61B62F1B54BB38D0F0198 /* Pods-News-NewsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-News-NewsUITests.debug.xcconfig"; path = "Target Support Files/Pods-News-NewsUITests/Pods-News-NewsUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -152,6 +153,7 @@
 				BEC3DA3C274C332000EE0B52 /* LaunchScreen.storyboard */,
 				BEC3DA3F274C332000EE0B52 /* Info.plist */,
 				BEC3DA62274C341200EE0B52 /* NewsTableViewController.swift */,
+				DDCF904E2772B5C500641DF1 /* MyPlayground.playground */,
 			);
 			path = News;
 			sourceTree = "<group>";
