@@ -16,10 +16,12 @@ class NewsTableViewController: UITableViewController{
     let disposeBage = DisposeBag()
     private var articles = [Article]()
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         self.navigationController?.navigationBar.prefersLargeTitles = true
         populateNews()
+        NotionArticleClass().get_notionTitle()
     }
     
     override func numberOfSections(in tableView: UITableView) -> Int {
